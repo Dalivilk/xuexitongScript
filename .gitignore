@@ -13,6 +13,9 @@ node_modules
 dist
 dist-ssr
 *.local
+
+# Local version snapshots
+/backups/
 package-lock.json
 pnpm-lock.yaml
 
